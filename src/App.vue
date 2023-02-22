@@ -2,13 +2,13 @@
     <div id="app">
       <div id="nav">
 
-        
-        <router-link to="/Teamperformance1">Performance by Year</router-link> |
-        <router-link to="/Teamperformance2">Performance by Team</router-link> |
-        <router-link to="/Donut">Team PPG</router-link>  |
-        <router-link to="/Bars">Team 2022</router-link> |
-        <router-link to="/quarterbacks">Quarterbacks</router-link> |
-        <router-link to="/">NFL Teams</router-link>
+         <router-link to="/">NFL Teams</router-link>|
+        <!-- <router-link to="/Teamperformance1">Performance by Year</router-link> | -->
+        <router-link to="/Teamperformance2">Performance over time</router-link> |
+        <!-- <router-link to="/Donut">Team PPG</router-link>  | -->
+        <router-link to="/Bars">Performance 2022</router-link> |
+        <router-link to="/quarterbacks">Quarterbacks Players</router-link> |
+       
         
       
 
